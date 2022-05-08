@@ -1,20 +1,20 @@
 
 .img-logo{
-background-color: rgba(0, 0, 0, 0.801);
+
 width: 100px;
-height: 80 px;
-object-fit: cover;
+height: 100 px;
+
 object-position: center;
 }
 
 .narbar-nav{
-background-color:  rgba(33, 233, 33, 0.274) ;
-margin-left: auto;
-}
+
+    margin-left: auto;
+    }
 
 .parrafo1{
 
-text-align: justify;
+text-align: center;
 
 }
 
@@ -55,6 +55,28 @@ width: 100%;
 
 }
 
+.card-text{
+font-family: sans-serif ;
+ text-align: justify;
+ width: 100%;
+ height: 30vh;
+    
+
+
+
+
+}
+
+.card-body{
+
+    height: auto;
+
+}
+
+
+
+
+
 .videoIframe{
 
     width: 100%;
@@ -63,6 +85,28 @@ width: 100%;
 
 
 
+
+
+}
+
+.text-adoptar{
+
+    text-align: justify;
+
+
+}
+
+.text-padrino{
+
+    text-align: center;
+}
+
+.perri-img{
+
+width: 45%;
+align-items: center;
+object-fit: cover;
+object-position: center;
 
 
 }
